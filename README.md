@@ -12,7 +12,7 @@
 
 - what is **GitHub** and how to use it in terminal and deploy a Repositorie.
 
-![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub logo]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)
 
 - what is the **MarkDown** language, how to use it and the basic syntax.
 
