@@ -1,6 +1,6 @@
 ## *Introduction*:star: 
 
-##### *Hello My name is Hamza and im a software engineer.
+##### *Hello My name is Hamza and im a software engineer*.
 
 ### What we did learn from today lecture: 
 
