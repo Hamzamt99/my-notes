@@ -2,7 +2,7 @@
 
 ##### *Hello My name is Hamza and im a software engineer*.
 
-### What we did learn from today lecture: 
+### What did we learn from today lecture: 
 
 - what is **GUI** and what is **Terminal**.
 
